@@ -1,16 +1,50 @@
-## Hi there 👋
+# Привет, я Илья Лунин 👋
 
-<!--
-**monkeybooooo/monkeybooooo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я начинающий разработчик, развиваюсь в направлении frontend- и web-разработки.
 
-Here are some ideas to get you started:
+Сейчас я изучаю JavaScript, React и TypeScript, а также работаю над практическими проектами, связанными с версткой, интерфейсами и структурой web-приложений.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Технологии
+
+**Frontend:** HTML, CSS, JavaScript, React, TypeScript  
+**Backend basics:** Python, Flask, Node.js  
+**Базы данных:** SQLite, PostgreSQL  
+**Инструменты:** Git, GitHub, Docker, VS Code, IntelliJ IDEA  
+
+## Текущий фокус
+
+- frontend-разработка;
+- JavaScript и TypeScript;
+- React-приложения;
+- адаптивная верстка;
+- чистая структура проекта;
+- работа с пользовательскими сценариями.
+
+## Проекты
+
+### Paritet Cosmetic Landing Page
+
+Desktop-first сайт-визитка для компании-поставщика косметической продукции.
+
+Проект находится в разработке. На текущем этапе реализуется desktop-версия сайта. Мобильная версия планируется как отдельный этап, так как текущая визуальная концепция использует крупные изображения и композицию, рассчитанную на широкий экран.
+
+### LeetCode Java Solutions
+
+Репозиторий с решениями алгоритмических задач на Java.
+
+Я использую его для тренировки алгоритмического мышления, работы со структурами данных и подготовки к техническим собеседованиям.
+
+Java используется именно для алгоритмической практики, а основное направление прикладной разработки для меня — JavaScript, TypeScript и frontend.
+
+## Что изучаю сейчас
+
+- современный JavaScript;
+- React;
+- TypeScript;
+- работу с компонентами;
+- основы frontend-архитектуры;
+- взаимодействие frontend с API.
+
+## Контакты
+
+GitHub: [@monkeybooooo](https://github.com/monkeybooooo)
