@@ -7,8 +7,8 @@
 ## Технологии
 
 **Frontend:** HTML, CSS, JavaScript, React, TypeScript  
-**Backend basics:** Python, Flask, Node.js  
-**Базы данных:** SQLite, PostgreSQL  
+**Backend basics:** Java, Node.js  
+**Базы данных:** PostgreSQL  
 **Инструменты:** Git, GitHub, Docker, VS Code, IntelliJ IDEA  
 
 ## Текущий фокус
